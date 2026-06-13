@@ -18,22 +18,26 @@ Built for the **Built with Python Hackathon**, this tool seamlessly integrates l
 - **Batch Pipeline**: Features an automated workflow that runs inference on a curated list of famous deep fields (e.g., James Webb SMACS, Hubble Deep Field, Swan Nebula).
 - **Web API**: Includes a complete FastAPI Hugging Face Space deployment for easy web inference.
 
-## 🚀 Quick Start
+## 🌌 Explore the 3D Cosmic Observatory
 
-### 1. Install Dependencies
-Ensure you have Python 3 installed. Then, install the required packages:
+Download the GitHub repository to experience the interactive 3D map locally:
+
 ```bash
+# 1. Clone the repository
+git clone "https://github.com/AVadhyanshverma/Built-with-Python-Hackathon.git"
+
+# 2. Navigate into the project directory
+cd "Built-with-Python-Hackathon"
+
+# 3. Create and activate a virtual environment (optional but recommended)
+#python -m venv venv I already have it!!!
+source ~/Projects/IHSE/.venv/bin/activate  # On Windows use: venv\Scripts\activate
+
+# 4. Install the required dependencies
 pip install -r requirements.txt
-```
 
-### 2. Run the Observatory
-Launch the full automated batch pipeline using the provided shell script:
-```bash
+# 5. Launch Experience!
 ./run.sh
-```
-Or run the Python script directly:
-```bash
-python main.py
 ```
 
 ### 3. Using Your Own Images
