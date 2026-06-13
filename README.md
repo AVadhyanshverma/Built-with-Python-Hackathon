@@ -1,7 +1,7 @@
 # 🔭 Deep Space 3D Observatory
 
 <p align="center">
-  <img src="space_images/image.png" alt="Original Space Image" width="45%">
+  <img src="space_images/image copy 3.png" alt="Original Space Image" width="45%">
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="cosmic_depth_map.png" alt="Cosmic Depth Map" width="45%">
 </p>
