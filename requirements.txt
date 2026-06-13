@@ -1,0 +1,11 @@
+torch
+torchvision
+astropy
+astroquery
+scikit-learn
+matplotlib
+tqdm
+joblib
+pandas
+numpy
+requests

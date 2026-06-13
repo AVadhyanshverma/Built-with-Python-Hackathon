@@ -1,0 +1,9 @@
+A raw NASA image is just a grid of colored pixels. 
+To figure out how far away a galaxy is, astronomers 
+traditionally spend weeks manually extracting the exact 
+brightness of every single glowing dot across different invisible 
+light filters (ultraviolet, infrared, etc.). 
+
+Instead of feeding my AI raw pixels, we use the image's 
+Coordinates (Right Ascension & Declination). 
+Every NASA image is essentially a map with GPS coordinates for the sky.
